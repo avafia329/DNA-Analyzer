@@ -1,0 +1,5 @@
+Flask
+biopython
+reportlab
+gunicorn
+chart.js
