@@ -2,4 +2,5 @@ Flask
 biopython
 reportlab
 gunicorn
-chart.js
+numpy
+pandas
